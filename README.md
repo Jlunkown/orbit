@@ -1,4 +1,4 @@
-# Orbit
+# Orbit (Submission for GameDevTv game jam 2022)
 
 <img src="Assets/player/art/ball%20robot%201.png" alt="Orbit" width="96">
 
